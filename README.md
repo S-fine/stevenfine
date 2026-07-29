@@ -1,8 +1,8 @@
-<h1>I'm Steven 🍿</h1>
+<h1>I'm Steve 🍿</h1>
 
 **Generalist at the intersection of GTM and Product.**
 
-I love watching businesses grow — how they find product-market fit, build their go-to-market motion, and scale. This is a place for the things I build. Feel free to steal anything here if you find it valuable.
+Hi, I'm Steve. I don't know what I'm doing on here but I'm gonna build things I think would help me and share them here.
 
 ---
 
