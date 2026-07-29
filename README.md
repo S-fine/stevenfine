@@ -1,4 +1,4 @@
-# stevenfine 🍿
+# Steven Fine 🍿
 
 Hi, I'm Steven — a generalist who loves watching businesses grow and digging into the intersection of GTM and Product strategy.
 
